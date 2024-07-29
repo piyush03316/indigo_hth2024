@@ -1,0 +1,89 @@
+[
+    {
+        "notification_id": "1",
+        "flight_id": "6E 2341",
+        "message": "Your flight 6E 2341 is on time. Departure gate: A12.",
+        "timestamp": "2024-07-26T13:00:00Z",
+        "method": "SMS",
+        "recipient": "+1234567890"
+    },
+    {
+        "notification_id": "2",
+        "flight_id": "6E 2342",
+        "message": "Your flight 6E 2342 is delayed. New departure time: 2024-07-26T17:00:00Z. Departure gate: C3.",
+        "timestamp": "2024-07-26T15:30:00Z",
+        "method": "Email",
+        "recipient": "user@example.com"
+    },
+    {
+        "notification_id": "3",
+        "flight_id": "6E 2343",
+        "message": "Your flight 6E 2343 has been cancelled.",
+        "timestamp": "2024-07-26T11:00:00Z",
+        "method": "App",
+        "recipient": "user_app_id_12345"
+    },
+    {
+      "notification_id": "4",
+      "flight_id": "6E 2344",
+      "message": "Your flight 6E 2344 is on time. Departure gate: A12.",
+      "timestamp": "2024-07-26T13:30:00Z",
+      "method": "App",
+      "recipient": "user_app_id_54321"
+    },
+    {
+      "notification_id": "5",
+      "flight_id": "6E 2345",
+      "message": "Your flight 6E 2345 has a potential delay. Please check for updates.",
+      "timestamp": "2024-07-26T14:00:00Z",
+      "method": "SMS",
+      "recipient": "+9876543210"
+    },
+    {
+      "notification_id": "6",
+      "flight_id": "6E 2346",
+      "message": "Your flight 6E 2346 is boarding now. Departure gate: I7.",
+      "timestamp": "2024-07-26T17:45:00Z",
+      "method": "Email",
+      "recipient": "another_user@example.com"
+    },
+    {
+      "notification_id": "7",
+      "flight_id": "6E 2341",
+      "message": "Enjoy your flight 6E 2341! We hope you have a pleasant journey.",
+      "timestamp": "2024-07-26T14:15:00Z",
+      "method": "Push Notification",
+      "recipient": "user_app_id_54321"
+    },
+    {
+      "notification_id": "8",
+      "flight_id": "6E 2347",
+      "message": "Your flight 6E 2347 is ready for check-in. Please proceed to counter M11.",
+      "timestamp": "2024-07-26T07:30:00Z",
+      "method": "App",
+      "recipient": "user_app_id_98765"
+    },
+    {
+      "notification_id": "9",
+      "flight_id": "6E 2349",
+      "message": "A reminder that your flight 6E 2349 departs at 16:00 today. Gate information will be available soon.",
+      "timestamp": "2024-07-26T14:30:00Z",
+      "method": "SMS",
+      "recipient": "+5678901234"
+    },
+    {
+      "notification_id": "10",
+      "flight_id": "6E 2348",
+      "message": "Your flight 6E 2348 may experience a delay due to weather conditions. We'll update you as soon as we have more information.",
+      "timestamp": "2024-07-26T19:00:00Z",
+      "method": "Email",
+      "recipient": "yet_another_user@example.com"
+    },
+    {
+      "notification_id": "11",
+      "flight_id": "6E 2350",
+      "message": "Welcome aboard flight 6E 2350! We wish you a safe and comfortable flight.",
+      "timestamp": "2024-07-26T13:15:00Z",
+      "method": "Push Notification",
+      "recipient": "user_app_id_12345"
+    }]
